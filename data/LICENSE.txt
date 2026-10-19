@@ -1,0 +1,10 @@
+The data in the DIACU_1.0.json file has been collected from various sources:
+
+-  CyrilloMethodiana (https://histdict.uni-sofia.bg/)
+-  Syntacticus (https://syntacticus.org/)
+-  St. Petersburg Corpus of Hagiographic Texts (SCAT) (https://project.phil.spbu.ru/scat/)
+-  Russian National Corpus (RNC) (https://ruscorpora.ru/)
+-  UD Old East Slavic–Ruthenian corpus (https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian)
+
+The metadata of each entry is released with a Attribution-ShareAlike 4.0 International Creative Common License (http://creativecommons.org/licenses/by-sa/4.0/legalcode)
+The content field in each entry is subject to the license of its sources.
